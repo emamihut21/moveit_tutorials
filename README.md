@@ -84,3 +84,4 @@ moveit_tutorials/doc/
         ├── <tutorial_name>_tutorial_test.py            # Python tests for tutorial
         └── <tutorial_name>_tutorial_test.cpp           # C++ tests for tutorial
 ```
+# moveit_tutorials
